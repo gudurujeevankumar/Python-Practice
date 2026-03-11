@@ -7,5 +7,5 @@ for i in range(1,n+1):
         elif (i<=j): 
             print("-",end=" ")
         elif ():
-            p
+            p 
     print()
