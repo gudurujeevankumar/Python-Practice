@@ -21,6 +21,11 @@ Negative Indexing - -1,-2,-3......
 arr = [25,'Thop',3.142,False]
        -4   -3    -2    -1
 print(arr)
-
+'''
 
 '''
+Slicing [start:stop:step]
+
+we can access the values in perticular range by using positive and negaive indexing
+'''
+
