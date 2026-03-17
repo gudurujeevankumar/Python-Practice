@@ -10,6 +10,10 @@ n = ['string','ram','krish']
 
 Dissimilar data types 
 arr = [25,'Thop',3.142,False]
+
+--> Mutable 
+--> Allows duplicates
+--> Ordered
 '''
 
 '''
@@ -36,4 +40,21 @@ after using append() the element will added at the end in a list
 list = [1,"s",False]
 list.append(1.45)
 listname.append(value)
+'''
+
+'''
+Insert() is a method used to insert the elements in list
+
+list.insert(index,value)
+
+'''
+
+arr = [1,'hello']
+# arr.insert(1,420)
+arr[1]=2
+print(arr)
+
+'''
+Extend() is used to merge two lists
+list1.extend(list2)
 '''
