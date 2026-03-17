@@ -49,12 +49,33 @@ list.insert(index,value)
 
 '''
 
-arr = [1,'hello']
-# arr.insert(1,420)
-arr[1]=2
-print(arr)
+# arr = [1,'hello']
+# # arr.insert(1,420)
+# arr[1]=2
+# print(arr)
 
 '''
 Extend() is used to merge two lists
 list1.extend(list2)
 '''
+
+'''
+Count() is a method used to count the repetition of element in list
+list = [elements]
+x = list.count(value)
+'''
+# list =[1,2,3,5,5,6,6,4,5]
+# c=list.count(5)
+# print(c)
+
+''' 
+Sorting() is used to sort the list 
+'''
+list =[1,2,3,5,5,6,6,4,5,"J","j",False]
+list.sort()
+print(list)
+
+
+# list =[1,2,3,5,5,6,6,4,5,"J","j",False]
+# list.remove(2)
+# print(list)
