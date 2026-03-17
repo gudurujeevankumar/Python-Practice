@@ -29,3 +29,11 @@ Slicing [start:stop:step]
 we can access the values in perticular range by using positive and negaive indexing
 '''
 
+'''
+Append is a list metho used to add the elements into list 
+after using append() the element will added at the end in a list
+
+list = [1,"s",False]
+list.append(1.45)
+listname.append(value)
+'''
