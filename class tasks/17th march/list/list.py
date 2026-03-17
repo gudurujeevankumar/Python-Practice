@@ -12,5 +12,15 @@ Dissimilar data types
 arr = [25,'Thop',3.142,False]
 '''
 
+'''
+Indexing :
+Positive Indexing - 0,1,2....
+Negative Indexing - -1,-2,-3......
+
+       0    1    2      3 
 arr = [25,'Thop',3.142,False]
+       -4   -3    -2    -1
 print(arr)
+
+
+'''
