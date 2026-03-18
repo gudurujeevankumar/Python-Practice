@@ -1,3 +1,6 @@
+
+# 2.⁠ ⁠Check whether a string is a palindrome
+
 s = input("Enter the string : ")
 revS = ""
 count = 0
