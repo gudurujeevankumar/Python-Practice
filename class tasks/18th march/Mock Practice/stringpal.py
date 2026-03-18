@@ -1,5 +1,5 @@
 
-# 2.⁠ ⁠Check whether a string is a palindrome
+# 2.⁠ ⁠Check whether a string is a palindrome without using any inbuilt funtions
 
 s = input("Enter the string : ")
 revS = ""
@@ -20,3 +20,5 @@ else:
     print("Given string : " + s)
     print("Reversed string : " + revS)
     print("So, Given string is not a palindrom")
+
+
